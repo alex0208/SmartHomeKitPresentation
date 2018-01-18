@@ -4,10 +4,14 @@
     "intro.md",
     "iot.md",
     "business.md",
-    "sys-dev.md", [
+    "sys-dev.md",
+    [
         "implementation.md",
+        "hardware.md",
         "sdk.md",
         "server.md",
         "client.md"
-    ]
+    ],
+    "notes.md",
+    "thanks.md"
 ]

@@ -1,3 +1,7 @@
-##  sdk
+# SDK
 
-This is a new Markdown slide
+- ## Default config
+    - #### Cloud solution
+- ## Smart Home Kit
+    - #### Discovery procedure
+    - #### Control procedure
